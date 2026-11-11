@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="t d">
+  <title id="t">Spotify "Graduation Day" growth concept</title>
+  <desc id="d">Cream background with a deep green mortarboard cap and a gold tassel shaped like a sound wave. Title Graduation Day, with the line "Keep the soundtrack after the student discount ends." and growth concept by Chris Williams.</desc>
+  <rect width="1000" height="500" fill="#FFF8EE"/>
+  <circle cx="790" cy="250" r="200" fill="#D9F2E6"/>
+  <!-- Mortarboard -->
+  <g transform="translate(790 230)">
+    <path d="M-150 -10 L0 -80 L150 -10 L0 60 Z" fill="#10241F"/>
+    <path d="M-90 20 V80 C-90 110 90 110 90 80 V20 L0 60 Z" fill="#10241F"/>
+    <circle cx="0" cy="-10" r="8" fill="#F2B33D"/>
+    <!-- tassel as a sound wave -->
+    <path d="M0 -10 L120 30 V70" stroke="#F2B33D" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <g fill="#F2B33D">
+      <rect x="100" y="78" width="8" height="26" rx="4"/><rect x="113" y="72" width="8" height="40" rx="4"/><rect x="126" y="80" width="8" height="22" rx="4"/><rect x="139" y="74" width="8" height="34" rx="4"/>
+    </g>
+  </g>
+  <text x="70" y="140" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#0A6E4D">SPOTIFY · GROWTH CONCEPT</text>
+  <text x="66" y="236" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="76" font-weight="800" fill="#10241F">Graduation</text>
+  <text x="66" y="316" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="76" font-weight="800" fill="#10241F">Day</text>
+  <text x="70" y="372" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#3D524C">Keep the soundtrack after the</text>
+  <text x="70" y="402" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#3D524C">student discount ends.</text>
+  <text x="70" y="450" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#3D524C">Chris Williams · Product Marketing Concepts</text>
+</svg>

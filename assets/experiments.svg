@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="t d">
+  <title id="t">A/B test hypotheses ranked by ICE score</title>
+  <desc id="d">Five experiments ranked by ICE score out of 10. H1, the graduation heads-up, 8.3, run first. H2, your college soundtrack, 7.3, run first. H3, shared-plan nudge, 7.0, run second. H4, the graduate bridge price, 6.7, run third. H5, pause instead of cancel, 6.0, run in parallel.</desc>
+  <rect width="1200" height="660" fill="#FFF8EE"/>
+  <g font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="64" font-size="15" font-weight="700" letter-spacing="3" fill="#0A6E4D">A/B TEST HYPOTHESES</text>
+    <text x="60" y="110" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="40" font-weight="800" fill="#10241F">Five experiments, ranked</text>
+    <text x="1140" y="110" text-anchor="end" font-size="15" fill="#3D524C">ICE = (Impact + Confidence + Ease) ÷ 3</text>
+    <rect x="60" y="140" width="1080" height="80" rx="16" fill="#FFFFFF" stroke="#EADFCC" stroke-width="2"/>
+    <circle cx="104" cy="180" r="24" fill="#10241F"/><text x="104" y="187" text-anchor="middle" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="19" font-weight="800" fill="#F2B33D">H1</text>
+    <text x="146" y="175" font-size="22" font-weight="700" fill="#10241F">The graduation heads-up</text>
+    <text x="146" y="202" font-size="17" fill="#3D524C">30 days’ notice and a one-tap plan picker</text>
+    <rect x="610" y="168" width="440" height="24" rx="12" fill="#D9F2E6"/>
+    <rect x="610" y="168" width="365" height="24" rx="12" fill="#0A6E4D"/>
+    <text x="1070" y="188" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="24" font-weight="800" fill="#10241F">8.3</text>
+    <text x="610" y="160" font-size="12" font-weight="700" letter-spacing="2" fill="#3D524C">RUN FIRST</text>
+    <rect x="60" y="236" width="1080" height="80" rx="16" fill="#FFFFFF" stroke="#EADFCC" stroke-width="2"/>
+    <circle cx="104" cy="276" r="24" fill="#10241F"/><text x="104" y="283" text-anchor="middle" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="19" font-weight="800" fill="#F2B33D">H2</text>
+    <text x="146" y="271" font-size="22" font-weight="700" fill="#10241F">Your college soundtrack</text>
+    <text x="146" y="298" font-size="17" fill="#3D524C">A recap of four years of listening</text>
+    <rect x="610" y="264" width="440" height="24" rx="12" fill="#D9F2E6"/>
+    <rect x="610" y="264" width="321" height="24" rx="12" fill="#0A6E4D"/>
+    <text x="1070" y="284" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="24" font-weight="800" fill="#10241F">7.3</text>
+    <text x="610" y="256" font-size="12" font-weight="700" letter-spacing="2" fill="#3D524C">RUN FIRST</text>
+    <rect x="60" y="332" width="1080" height="80" rx="16" fill="#FFFFFF" stroke="#EADFCC" stroke-width="2"/>
+    <circle cx="104" cy="372" r="24" fill="#10241F"/><text x="104" y="379" text-anchor="middle" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="19" font-weight="800" fill="#F2B33D">H3</text>
+    <text x="146" y="367" font-size="22" font-weight="700" fill="#10241F">Shared-plan nudge</text>
+    <text x="146" y="394" font-size="17" fill="#3D524C">Duo and Family priced per person</text>
+    <rect x="610" y="360" width="440" height="24" rx="12" fill="#D9F2E6"/>
+    <rect x="610" y="360" width="308" height="24" rx="12" fill="#0A6E4D"/>
+    <text x="1070" y="380" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="24" font-weight="800" fill="#10241F">7.0</text>
+    <text x="610" y="352" font-size="12" font-weight="700" letter-spacing="2" fill="#3D524C">RUN SECOND</text>
+    <rect x="60" y="428" width="1080" height="80" rx="16" fill="#FFFFFF" stroke="#EADFCC" stroke-width="2"/>
+    <circle cx="104" cy="468" r="24" fill="#10241F"/><text x="104" y="475" text-anchor="middle" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="19" font-weight="800" fill="#F2B33D">H4</text>
+    <text x="146" y="463" font-size="22" font-weight="700" fill="#10241F">The graduate bridge</text>
+    <text x="146" y="490" font-size="17" fill="#3D524C">Three months at a step price</text>
+    <rect x="610" y="456" width="440" height="24" rx="12" fill="#D9F2E6"/>
+    <rect x="610" y="456" width="294" height="24" rx="12" fill="#0A6E4D"/>
+    <text x="1070" y="476" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="24" font-weight="800" fill="#10241F">6.7</text>
+    <text x="610" y="448" font-size="12" font-weight="700" letter-spacing="2" fill="#3D524C">RUN THIRD</text>
+    <rect x="60" y="524" width="1080" height="80" rx="16" fill="#FFFFFF" stroke="#EADFCC" stroke-width="2"/>
+    <circle cx="104" cy="564" r="24" fill="#10241F"/><text x="104" y="571" text-anchor="middle" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="19" font-weight="800" fill="#F2B33D">H5</text>
+    <text x="146" y="559" font-size="22" font-weight="700" fill="#10241F">Pause, don’t cancel</text>
+    <text x="146" y="586" font-size="17" fill="#3D524C">Pause for up to two months</text>
+    <rect x="610" y="552" width="440" height="24" rx="12" fill="#D9F2E6"/>
+    <rect x="610" y="552" width="264" height="24" rx="12" fill="#0A6E4D"/>
+    <text x="1070" y="572" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="24" font-weight="800" fill="#10241F">6.0</text>
+    <text x="610" y="544" font-size="12" font-weight="700" letter-spacing="2" fill="#3D524C">IN PARALLEL</text>
+  </g>
+</svg>

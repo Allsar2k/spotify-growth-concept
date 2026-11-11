@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="t d">
+  <title id="t">The graduation funnel, illustrative model</title>
+  <desc id="d">Illustrative model of 100 graduating Student subscribers. 100 reach the end of eligibility, 62 keep their plan through the first full-price charge, 48 are still paying at the end of month 1, and 41 are on Individual at day 90. Of the 59 who left Individual: 12 moved to Duo or Family and still pay, 30 dropped to the free tier, and 17 left Spotify. 53 of 100 are on a paid plan at day 90.</desc>
+  <rect width="1200" height="700" fill="#FFF8EE"/>
+  <g font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="64" font-size="15" font-weight="700" letter-spacing="3" fill="#0A6E4D">FUNNEL ANALYSIS · ILLUSTRATIVE MODEL</text>
+    <text x="60" y="110" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="40" font-weight="800" fill="#10241F">Where graduates leave</text>
+    <rect x="60" y="150" width="600" height="66" rx="14" fill="#10241F"/>
+    <text x="84" y="194" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF">100</text>
+    <text x="684" y="180" font-size="20" font-weight="700" fill="#10241F">Eligibility ends</text>
+    <text x="684" y="206" font-size="17" fill="#3D524C">Moved to full-price Individual</text>
+    <rect x="60" y="236" width="372" height="66" rx="14" fill="#0A6E4D"/>
+    <text x="84" y="280" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF">62</text>
+    <text x="456" y="266" font-size="20" font-weight="700" fill="#10241F">First full-price charge</text>
+    <text x="456" y="292" font-size="17" fill="#3D524C">38 cancel at the surprise</text>
+    <rect x="60" y="322" width="288" height="66" rx="14" fill="#0A6E4D"/>
+    <text x="84" y="366" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF">48</text>
+    <text x="372" y="352" font-size="20" font-weight="700" fill="#10241F">End of month 1</text>
+    <text x="372" y="378" font-size="17" fill="#3D524C">14 more cancel after one bill</text>
+    <rect x="60" y="408" width="246" height="66" rx="14" fill="#0A6E4D"/>
+    <text x="84" y="452" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF">41</text>
+    <text x="330" y="438" font-size="20" font-weight="700" fill="#10241F">Day 90 on Individual</text>
+    <text x="330" y="464" font-size="17" fill="#3D524C">7 more cancel later</text>
+    <!-- Destinations -->
+    <text x="60" y="532" font-size="15" font-weight="700" letter-spacing="3" fill="#3D524C">WHERE THE 59 WENT</text>
+    <rect x="60" y="552" width="300" height="100" rx="14" fill="#D9F2E6"/>
+    <text x="84" y="596" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="32" font-weight="800" fill="#0A6E4D">12</text>
+    <text x="84" y="630" font-size="17" fill="#10241F">to Duo or Family: still paying</text>
+    <rect x="380" y="552" width="300" height="100" rx="14" fill="#FFFFFF" stroke="#EADFCC" stroke-width="2"/>
+    <text x="404" y="596" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="32" font-weight="800" fill="#10241F">30</text>
+    <text x="404" y="630" font-size="17" fill="#10241F">to the free tier: still listening</text>
+    <rect x="700" y="552" width="300" height="100" rx="14" fill="#FFFFFF" stroke="#C8442C" stroke-width="2" stroke-dasharray="8 6"/>
+    <text x="724" y="596" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="32" font-weight="800" fill="#C8442C">17</text>
+    <text x="724" y="630" font-size="17" fill="#10241F">left Spotify entirely</text>
+    <rect x="1020" y="552" width="140" height="100" rx="14" fill="#F2B33D"/>
+    <text x="1090" y="598" text-anchor="middle" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="34" font-weight="800" fill="#10241F">53%</text>
+    <text x="1090" y="630" text-anchor="middle" font-size="15" font-weight="700" fill="#10241F">paid at day 90</text>
+  </g>
+</svg>

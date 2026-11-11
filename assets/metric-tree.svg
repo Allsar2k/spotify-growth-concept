@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="t d">
+  <title id="t">Graduation Day metric tree</title>
+  <desc id="d">North Star at the top: graduates on any paid plan at day 90, model baseline 53 percent, target 60 percent. Four input metrics below it: plan chosen before eligibility ends, 10 to 35 percent; first full-price charge kept, 62 to 70 percent; on a paid plan at day 30, 58 to 64 percent; still on Spotify at day 90, 83 to 88 percent. Guardrails at the bottom: revenue per graduate, support contacts, unsubscribes and free-tier listening.</desc>
+  <rect width="1200" height="640" fill="#FFF8EE"/>
+  <g font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="64" font-size="15" font-weight="700" letter-spacing="3" fill="#0A6E4D">SUCCESS METRICS</text>
+    <rect x="350" y="96" width="500" height="120" rx="20" fill="#10241F"/>
+    <text x="600" y="134" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="3" fill="#F2B33D">NORTH STAR</text>
+    <text x="600" y="170" text-anchor="middle" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="26" font-weight="800" fill="#FFFFFF">On any paid plan at day 90</text>
+    <text x="600" y="200" text-anchor="middle" font-size="18" fill="#F2B33D">53% → 60%</text>
+    <path d="M600 216 V250 H185 V280" fill="none" stroke="#0A6E4D" stroke-width="3"/>
+    <path d="M600 216 V250 H462 V280" fill="none" stroke="#0A6E4D" stroke-width="3"/>
+    <path d="M600 216 V250 H739 V280" fill="none" stroke="#0A6E4D" stroke-width="3"/>
+    <path d="M600 216 V250 H1016 V280" fill="none" stroke="#0A6E4D" stroke-width="3"/>
+    <rect x="60" y="280" width="250" height="150" rx="18" fill="#D9F2E6"/>
+    <text x="82" y="318" font-size="12" font-weight="700" letter-spacing="2" fill="#0A6E4D">INPUT 1</text>
+    <text x="82" y="352" font-size="20" font-weight="700" fill="#10241F">Plan chosen early</text>
+    <text x="82" y="378" font-size="16" fill="#3D524C">before eligibility ends</text>
+    <text x="82" y="412" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="22" font-weight="800" fill="#0A6E4D">10% → 35%</text>
+    <rect x="337" y="280" width="250" height="150" rx="18" fill="#D9F2E6"/>
+    <text x="359" y="318" font-size="12" font-weight="700" letter-spacing="2" fill="#0A6E4D">INPUT 2</text>
+    <text x="359" y="352" font-size="20" font-weight="700" fill="#10241F">First charge kept</text>
+    <text x="359" y="378" font-size="16" fill="#3D524C">after the full-price bill</text>
+    <text x="359" y="412" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="22" font-weight="800" fill="#0A6E4D">62% → 70%</text>
+    <rect x="614" y="280" width="250" height="150" rx="18" fill="#D9F2E6"/>
+    <text x="636" y="318" font-size="12" font-weight="700" letter-spacing="2" fill="#0A6E4D">INPUT 3</text>
+    <text x="636" y="352" font-size="20" font-weight="700" fill="#10241F">Paid at day 30</text>
+    <text x="636" y="378" font-size="16" fill="#3D524C">any paid plan</text>
+    <text x="636" y="412" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="22" font-weight="800" fill="#0A6E4D">58% → 64%</text>
+    <rect x="891" y="280" width="250" height="150" rx="18" fill="#D9F2E6"/>
+    <text x="913" y="318" font-size="12" font-weight="700" letter-spacing="2" fill="#0A6E4D">INPUT 4</text>
+    <text x="913" y="352" font-size="20" font-weight="700" fill="#10241F">Still on Spotify</text>
+    <text x="913" y="378" font-size="16" fill="#3D524C">paid or free, day 90</text>
+    <text x="913" y="412" font-family="ui-rounded, 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif" font-size="22" font-weight="800" fill="#0A6E4D">83% → 88%</text>
+    <rect x="60" y="470" width="1080" height="120" rx="18" fill="#FFFFFF" stroke="#C8442C" stroke-width="2" stroke-dasharray="8 6"/>
+    <text x="88" y="510" font-size="13" font-weight="700" letter-spacing="2.5" fill="#C8442C">GUARDRAILS · MUST NOT GET WORSE</text>
+    <text x="88" y="552" font-size="19" fill="#10241F">Revenue per graduate  ·  Support contacts  ·  Unsubscribes  ·  Free-tier listening hours</text>
+  </g>
+</svg>
